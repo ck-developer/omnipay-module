@@ -8,12 +8,12 @@ return [
                 'username' => 'TEST',
                 'password' => 'TEST',
                 'signature' => 'TEST',
-                'testMode' => true,
                 'solutionType' => 'Sole',
                 'landingPage' => 'Billing',
                 'brandName' => 'CkDeveloper',
                 'headerImageUrl' => '',
-                'logoImageUrl' => ''
+                'logoImageUrl' => '',
+                'testMode' => true,
             ]
         ],
     ]
