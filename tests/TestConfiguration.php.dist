@@ -1,0 +1,13 @@
+<?php
+
+return array(
+    'modules' => array(
+        'OmnipayModule',
+    ),
+    'module_listener_options' => array(
+        'config_glob_paths' => array(
+            __DIR__ . '/config/omnipay.test.php',
+        ),
+        'module_paths' => array(),
+    ),
+);

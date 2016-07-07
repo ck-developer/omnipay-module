@@ -1,0 +1,3 @@
+OmnipayModule
+=============
+[![Build Status](https://travis-ci.org/ck-developer/omnipay-module.svg?branch=master)](https://travis-ci.org/ck-developer/omnipay-module) [![Latest Stable Version](https://poser.pugx.org/ck-developer/omnipay-module/v/stable)](https://packagist.org/packages/ck-developer/omnipay-module) [![Total Downloads](https://poser.pugx.org/ck-developer/omnipay-module/downloads)](https://packagist.org/packages/ck-developer/omnipay-module) [![Latest Unstable Version](https://poser.pugx.org/ck-developer/omnipay-module/v/unstable)](https://packagist.org/packages/ck-developer/omnipay-module) [![License](https://poser.pugx.org/ck-developer/omnipay-module/license)](https://packagist.org/packages/ck-developer/omnipay-module)
