@@ -1,0 +1,12 @@
+
+<phpunit
+    bootstrap="./tests/bootstrap.php"
+    colors="true"
+    backupGlobals="false"
+>
+    <testsuites>
+        <testsuite name="OmnipayModule Test Suite">
+            <directory>./tests/OmnipayModuleTest</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

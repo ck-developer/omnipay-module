@@ -1,0 +1,20 @@
+<?php
+
+return [
+    'omnipay' => [
+        'gateways' => [
+            'paypal' => [
+                'factory' => 'PayPal_Express',
+                'username' => 'TEST',
+                'password' => 'TEST',
+                'signature' => 'TEST',
+                'solutionType' => 'Sole',
+                'landingPage' => 'Billing',
+                'brandName' => 'CkDeveloper',
+                'headerImageUrl' => '',
+                'logoImageUrl' => '',
+                'testMode' => true,
+            ]
+        ],
+    ]
+];
