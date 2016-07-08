@@ -43,6 +43,6 @@ class OmnipayService
         $gateway = $this->factory->create($this->config['gateways'][$name]['factory']);
         $gateway->initialize($this->config['gateways'][$name]);
 
-        return $gateway->getParameters();
+        return $gateway;
     }
 }
